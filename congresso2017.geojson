@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Hotel": "Best West Hotel Metropoli",
+        "Prezzo Matrimoniale": "116€",
+        "Costo Parcheggio": "-",
+        "Gratuità": 0,
+        "marker-color": "#c83574",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9348566532135,
+          44.410267237368636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hotel": "Best West Hotel Porto Antico",
+        "Prezzo Matrimoniale": "119€",
+        "Costo Parcheggio": "18€",
+        "Gratuità": 0,
+        "marker-color": "#c83574",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.928684890270233,
+          44.41178279646741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hotel": "Best Western Plus City Hotel",
+        "Prezzo Matrimoniale": "126€",
+        "Costo Parcheggio": "25-30€",
+        "Gratuità": 2,
+        "marker-color": "#c83574",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.935468196868896,
+          44.40922874057072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hotel": "Columbus Sea Hotel",
+        "Prezzo Matrimoniale": "70€",
+        "Costo Parcheggio": "Gratis",
+        "Gratuità": 2,
+        "marker-color": "#c83574",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.906768560409546,
+          44.40865391891731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hotel": "Hermitage Hotel",
+        "Prezzo Matrimoniale": "88€",
+        "Costo Parcheggio": "Gratis",
+        "Gratuità": 1,
+        "marker-color": "#c83574",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.956700563430786,
+          44.39811452078663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hotel": "Hotel NH Genova Centro",
+        "Prezzo Matrimoniale": "119€",
+        "Costo Parcheggio": "20€",
+        "Gratuità": 1,
+        "marker-color": "#c83574",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.937788307666779,
+          44.411211831910755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hotel": "Tower Genova Airport",
+        "Prezzo Matrimoniale": "80€",
+        "Costo Parcheggio": "10€",
+        "Gratuità": 4,
+        "marker-color": "#c83574",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.847169876098633,
+          44.417153039284074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hotel": "StarHotels President",
+        "Prezzo Matrimoniale": "117€",
+        "Costo Parcheggio": "15€",
+        "Gratuità": 0,
+        "marker-color": "#c83574",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.948074579238892,
+          44.40494426732205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hotel": "Hotel Bristol Palace",
+        "Prezzo Matrimoniale": "115€",
+        "Costo Parcheggio": "27€",
+        "Gratuità": 0,
+        "marker-color": "#c83574",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.935709595680237,
+          44.40697157508486
+        ]
+      }
+    }
+  ]
+}
